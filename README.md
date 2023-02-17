@@ -1,3 +1,3 @@
 # courstuto
-##Kegba et Prosper
-Kegba tu me fait le css rappidement ok !!!!
+## Projet collaboratif
+Kegba tu me fais le css vite !!! (disons un  ton  professionel
